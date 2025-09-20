@@ -1,0 +1,11 @@
+# FastAPI and web server dependencies
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+
+# Testing dependencies
+pytest>=7.4.0
+httpx>=0.25.0  # Required for FastAPI TestClient
+
+# Additional dependencies for production-ready features
+python-multipart>=0.0.6  # For form data support
+pydantic>=2.4.0  # For enhanced data validation
