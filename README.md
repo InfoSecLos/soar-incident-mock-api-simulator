@@ -322,11 +322,3 @@ This is a portfolio demonstration project. For suggestions or improvements:
 
 This project is created for educational and portfolio demonstration purposes.
 
----
-
-**Perfect for demonstrating:**
-- Security automation engineering skills
-- API development and testing expertise
-- SOAR/SOC operational understanding
-- Test-driven development practices
-- Technical documentation abilities
