@@ -2,8 +2,6 @@
 
 > **A RESTful API built with FastAPI to simulate SOAR (Security Orchestration, Automation & Response) incident handling workflows for security automation demonstrations.**
 
-This project demonstrates modern security automation engineering practices, including incident management, API security, comprehensive testing, and documentation - essential skills for SOC, SOAR, and security engineering roles.
-
 ## Features
 
 ### Core SOAR Incident Management
