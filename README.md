@@ -76,14 +76,6 @@ This is a **demonstration project** designed for portfolio and educational purpo
 - **No rate limiting** - Implement rate limiting for production APIs
 - **Simple authentication** - Use OAuth 2.0, JWT with expiration, or enterprise SSO
 
-### Production Security Recommendations:
-- Store secrets in environment variables or key management systems
-- Implement proper JWT tokens with expiration and refresh mechanisms
-- Use HTTPS/TLS encryption for all communications
-- Add rate limiting and DDoS protection
-- Implement comprehensive logging and monitoring
-- Use role-based access control (RBAC)
-- Regular security audits and penetration testing
 
 ## API Usage Examples
 
